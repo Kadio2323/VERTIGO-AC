@@ -1,0 +1,2 @@
+# VERTIGO-AC
+lisans doğrulama
