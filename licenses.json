@@ -1,12 +1,5 @@
-{
-  "licenses": [
-    {
-      "ip": "45.133.36.40",
-      "key": "vertigo-ac-own"
-    },
-    {
-      "ip": "98.76.54.32",
-      "key": "XYZ-789"
-    }
-  ]
+local adminSerials = {
+    ["SERIAL_1"] = true,
+    ["SERIAL_2"] = true,
+    ["SERIAL_3"] = true
 }
