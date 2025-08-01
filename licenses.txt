@@ -1,5 +1,5 @@
 local adminSerials = {
-    ["SERIAL_1"] = true,
-    ["SERIAL_2"] = true,
-    ["SERIAL_3"] = true
+    ["1EA460D87DF12C1E2ACC0EB7A6622243"] = true,
+    ["1EA460D87DF12C1E2ACC0EB7A6622243"] = true,
+    ["1EA460D87DF12C1E2ACC0EB7A6622243"] = true
 }
